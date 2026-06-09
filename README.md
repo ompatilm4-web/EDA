@@ -58,43 +58,8 @@ A collection of hands-on Exploratory Data Analysis (EDA) and Data Preprocessing 
 
 ---
 
-## 📂 Repository Structure
 
-```text
-EDA/
-│
-├── Datasets/
-│   ├── Diamonds/
-│   ├── Telco_Customer_Churn/
-│   └── Other_Datasets/
-│
-├── Notebooks/
-│   ├── EDA/
-│   ├── Data_Cleaning/
-│   ├── Feature_Engineering/
-│   └── Encoding/
-│
-├── Visualizations/
-│
-└── README.md
-```
 
----
-
-## 📈 Sample EDA Workflow
-
-1. Load Dataset
-2. Understand Features
-3. Check Data Types
-4. Handle Missing Values
-5. Analyze Distributions
-6. Detect Outliers
-7. Study Feature Relationships
-8. Encode Categorical Features
-9. Engineer New Features
-10. Prepare Data for Modeling
-
----
 
 ## 📚 Datasets Used
 
@@ -131,26 +96,8 @@ EDA/
 
 ---
 
-## 📌 Current Progress
 
-- ✅ Diamonds Dataset EDA
-- ✅ Encoding Practice
-- ✅ Feature Engineering
-- ✅ Correlation Analysis
-- ✅ Visualization Practice
-- 🔄 Telco Customer Churn EDA
-- 🔄 Advanced Data Preprocessing
 
----
 
-## 👨‍💻 Author
-
-**Om Patil**
-
-Passionate about Data Science, Machine Learning, and building strong data analysis foundations through practical projects.
-
-GitHub: :contentReference[oaicite:0]{index=0}
-
----
 
 ⭐ If you find this repository useful, consider giving it a star.
